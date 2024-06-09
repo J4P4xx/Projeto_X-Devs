@@ -32,5 +32,4 @@ btnVoltar.addEventListener("click", function(){
     cartaoAtual--;
     cartoes[cartaoAtual].classList.add("selecionado");
 
-
 });
